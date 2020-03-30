@@ -1,0 +1,44 @@
+/*
+ Localizable.strings
+ ACAMS
+ 
+ Created by Vaneet Modgill on 17/10/19.
+ Copyright © 2019 ElephantThink. All rights reserved.
+ */
+
+//MARK: - Error messages
+"ServerError" = "Something went wrong. Please try again after some time.";
+"NetworkNotReachable" = "Unable to connect to internet. Please check your internet Connection";
+
+//MARK: -  General
+"Loading" = "Loading...";
+"Cancel" = "Cancel";
+"OK" = "OK";
+"YES" = "YES";
+"NO" = "NO";
+
+//MARK: LOGIN SCREEN
+"LoginUserNamePlaceholder" = "Username";
+"LoginPasswordPlaceholder" = "Password";
+"LoginWelcomeText" = "Login with your ACAMS account";
+"LoginButtonText" = "LOGIN";
+"LoginUserNameNotFilledAlert"   = "Please enter your user name.";
+"LoginPasswordNotFilledAlert"        = "Please enter your password.";
+
+
+
+
+//MARK: Settings
+"HelpnFAQ" = "Help and FAQ";
+"LogOut" = "LOGOUT";
+"AppVersion1" = "Version";
+"PrivacyPolicy" = "Privacy Policy";
+"About" = "About";
+"TermsnConditions" = "Terms and Conditions";
+"SureLogout" = "Are you sure, you want to logout?";
+"Copyright" = "© Copyright 2019 ACAMS. All rights reserved.";
+
+
+
+//MARK:- Profile
+"MyProfile" = "My Profile";
